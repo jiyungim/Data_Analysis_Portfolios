@@ -6,5 +6,10 @@ This repository contains projects focused on deriving insights from data using P
 
 ## Projects by Industry
 - **Entertainment** : Spotify Track Popularity & Streaming Trends Analysis
-- 
-- 
+- **Finance** :
+- **E-commerce** :
+
+## Tools Used
+- Python
+- SQL
+- Tableau
