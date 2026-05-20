@@ -16,6 +16,5 @@ Analysis of Spotify track popularity trends in the streaming era using Python an
 - Listener behavior and platform-driven discovery may influence streaming performance.
 
 ## Files
-- `notebooks/spotify_streaming_analysis.ipynb`
-- `data/spotify_tracks.csv`
-
+- Notebooks : [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
+- Data set : [spotify_data clean]()
