@@ -12,7 +12,15 @@ This portfolio showcases my projects across entertainment, finance, and e-commer
 - **Finance** :
 - **E-commerce** :
 
-## Tools Used
+## Tools Used in Projects
+
 - Python
 - SQL
 - Tableau
+
+## Additional Technical Skills (Academic Exposure)
+
+- R
+- MATLAB
+- Excel
+- LaTeX
