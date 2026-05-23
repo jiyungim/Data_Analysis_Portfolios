@@ -5,10 +5,10 @@ Analysis of factors influencing Spotify track popularity and streaming performan
 
 ## Tools
 - Python
--- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - SciPy
 
 ## Key Insights
 - Track-level features show stronger correlation with popularity than artist-level popularity.
