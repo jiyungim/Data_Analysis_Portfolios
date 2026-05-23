@@ -5,7 +5,7 @@ Analysis of factors influencing Spotify track popularity and streaming performan
 
 ## Tools
 - Python
-- Pandas
+-- Pandas
 - Matplotlib
 - Seaborn
 - SciPy
