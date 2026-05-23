@@ -13,9 +13,9 @@ Analysis of factors influencing Spotify track popularity and streaming performan
 - Streaming performance appears to be influenced more by recommendation systems and platform exposure than organic listening alone.
 
 ## Files
-- Notebook: [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
-- Dataset: [spotify_data clean](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/spotify_data%20clean.csv)  (Source: Kaggle)
+- SQL: [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
+- Tableau: [spotify_data clean](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/spotify_data%20clean.csv)  (Source: Kaggle)
 
-## Dashboard Preview
+## Dashboard Preview (Tableau)
 
 ![Dashboard Overview](images/dashboard_overview.png)
