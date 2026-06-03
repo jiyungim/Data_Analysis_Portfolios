@@ -20,7 +20,7 @@ This project explores the key factors affecting loan approval decisions through 
 - Employment status showed one of the strongest relationships with loan approval outcomes. Unemployed applicants consistently exhibited extremely low approval rates, even when combined with high income and excellent credit scores.
 - Credit score and income level both demonstrated meaningful relationships with approval probability, but neither variable alone fully explained approval outcomes.
 - Multi-factor analysis revealed that loan approval decisions appear to rely on combinations of financial strength and employment stability rather than isolated applicant characteristics.
-- The risk segmentation model created a clear separation between high-risk and low-risk applicant groups, suggesting that combined risk indicators may be useful for preliminary applicant screening.
+ - The risk segmentation model created a clear separation between high-risk and low-risk applicant groups, suggesting that combined risk indicators may be useful for preliminary applicant screening.
 
 ## Business Recommendations
 - Employment stability should remain a critical component of loan approval assessment, as unemployed applicants demonstrated substantially lower approval rates even under otherwise strong financial conditions.
