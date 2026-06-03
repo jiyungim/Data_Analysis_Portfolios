@@ -31,7 +31,6 @@ This project explores the key factors affecting loan approval decisions through 
 - SQL: [Loan Approval Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
 - Tableau: [Loan Approval Analysis Dashboard](https://public.tableau.com/views/LoanApprovalAnalysisDashboard_17805090891440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  (Link to Tableau)
 - Dataset: [loan_data](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/loan_data.csv)  (Source: Kaggle)
- -- The dataset contains 5,000 loan application records including applicant demographics, employment status, income, credit score, loan amount, and approval outcomes.
 
 ## Dashboard Preview (Tableau)
 
