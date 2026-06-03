@@ -25,4 +25,4 @@ Analysis of factors influencing Spotify track popularity and streaming performan
 
 ## Dashboard Preview (Tableau)
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
