@@ -1,19 +1,31 @@
 # Spotify Track Popularity & Streaming Trends Analysis
 
 ## Overview
-Analysis of factors influencing Spotify track popularity and streaming performance using Python, focusing on audio features, track characteristics, and listener behavior trends.
+This project explores the factors that influence Spotify track popularity and streaming performance using Python-based exploratory data analysis and statistical analysis.
+
+The analysis focuses on identifying how audio features, track characteristics, and listener behavior patterns relate to track popularity in modern streaming environments.
 
 ## Tools
 - Python
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - SciPy
+  - Pandas, Matplotlib, Seaborn, SciPy, NumPy
+ 
+## Skills & Techniques
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Statistical Testing
+- Data Cleaning & Validation
+- Feature Relationship Analysis
+- Data Visualization
+- Trend Identification
 
 ## Key Insights
-- Track-level features show stronger correlation with popularity than artist-level popularity.
-- Higher popularity tracks tend to have slightly shorter durations, suggesting a streaming-era preference for shorter content.
-- Streaming performance appears to be influenced more by recommendation systems and platform exposure than organic listening alone.
+- Artist influence plays a significant role in determining track success.
+- However, high artist popularity does not guarantee a hit, indicating substantial variability in streaming performance across tracks.
+- Popular tracks also showed a tendency toward shorter durations, reflecting evolving listening patterns in the streaming era.
+
+## Business Implications
+- The findings suggest that track performance may be increasingly shaped by playlist exposure, listener behavior, and recommendation systems rather than artist popularity alone.
+- The growing prevalence of shorter tracks may reflect changing consumption patterns associated with streaming and short-form content platforms.
 
 ## Files
 - Notebook: [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
