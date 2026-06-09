@@ -21,11 +21,11 @@ The analysis focuses on identifying how audio features, track characteristics, a
 ## Key Insights
 - Artist influence plays a significant role in determining track success.
 - However, high artist popularity does not guarantee a hit, indicating substantial variability in streaming performance across tracks.
-- Popular tracks also showed a tendency toward shorter durations, reflecting evolving listening patterns in the streaming era.
+- Contrary to the trend of shrinking track lengths in the streaming era, longer tracks maintained a statistically significant advantage in average popularity within this dataset.
 
 ## Business Implications
 - The findings suggest that track performance may be increasingly shaped by playlist exposure, listener behavior, and recommendation systems rather than artist popularity alone.
-- The growing prevalence of shorter tracks may reflect changing consumption patterns associated with streaming and short-form content platforms.
+- The growing prevalence of shorter tracks may reflect changing music production strategies and platform-driven incentives associated with streaming and short-form content platforms, even though longer tracks still hold a popularity advantage among listeners.
 
 ## Files
 - Notebook: [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/Spotify%20Track%20Popularity%20%26%20Streaming%20Trends%20Analysis.ipynb)
