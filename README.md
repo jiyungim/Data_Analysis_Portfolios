@@ -6,7 +6,7 @@ Hi, I'm Jiyun! I'm a Mathematics & Computer Science graduate with experience in 
 ## Projects by Industry
 - **Entertainment** : [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/spotify-track-popularity-analysis)                        (Python)
 - **Finance** : [Loan Approval Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/loan-approval-analysis) (SQL, Tableau)
-- **E-commerce** :
+- **E-commerce** : (in progress)
 
 ## Tools Used in Projects
 
