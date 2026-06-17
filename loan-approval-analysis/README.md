@@ -1,7 +1,8 @@
 # Loan Approval Analysis
 
 ## Overview
-This project explores the key factors affecting loan approval decisions through SQL-based data analysis and Tableau visualization. The analysis examines employment status, credit quality, income levels, and risk segmentation to uncover trends and support risk-based decision making.
+This project explores the key factors affecting loan approval decisions through SQL-based data analysis and Tableau visualization. 
+The analysis examines employment status, credit quality, income levels, and risk segmentation to uncover trends and support risk-based decision making.
 
 ## Tools
 - SQL (data cleaning, aggregation, segmentation analysis)
