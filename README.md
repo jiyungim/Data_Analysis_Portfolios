@@ -4,9 +4,10 @@
 Hi, I'm Jiyun! I'm a Mathematics & Computer Science graduate with experience in Python, SQL, R, Excel, Tableau, and MATLAB through academic coursework and personal data analysis projects. I enjoy exploring data to uncover patterns, extract meaningful insights, and translate complex datasets into clear and understandable stories. This portfolio showcases my projects across entertainment, finance, and e-commerce domains as I continue building my career in data analytics.
 
 ## Projects
-- **Entertainment** : [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/spotify-track-popularity-analysis)                        (Python)
 - **Finance** : [Loan Approval Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/loan-approval-analysis) (SQL, Tableau)
 - **E-commerce** : [E-Commerce Sales Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/ecommerce-sales-analysis)(Excel)
+- **Entertainment** : [Spotify Track Popularity & Streaming Trends Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/tree/main/spotify-track-popularity-analysis)                        (Python)
+
 
 ## Tools Used in Projects
 
