@@ -36,12 +36,11 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 - Card usage accounted for nearly half of all transactions, highlighting its importance as the primary payment method.
 - The relatively low average customer rating suggests that further analysis of customer experience factors could help identify opportunities for improvement.
 
-## Files
-- Excel: [E-Commerce Sales Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis.xlsx) (Excel workbook. GitHub does not support `.xlsx` preview; please download and open in Microsoft Excel to view the analysis.)
-
-- Dashboard : [E-Commerce Sales Dashboard](https://public.tableau.com/views/LoanApprovalAnalysisDashboard_17805090891440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  (Link to Tableau)
-- Dataset: [E-Commerce Sales Analytics](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analytics.csv)  (Source: Kaggle)
-
-## Dashboard Preview (Excel)
+## Dashboard (Excel)
 
 ![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis%20Dashboard.png)
+
+
+## Files
+- Excel: [E-Commerce Sales Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis.xlsx) (Excel workbook. GitHub does not support `.xlsx` preview; please download and open in Microsoft Excel to view the analysis.)
+- Dataset: [E-Commerce Sales Analytics](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analytics.csv)  (Source: Kaggle)
