@@ -20,6 +20,5 @@ Hi, I'm Jiyun! I'm a Mathematics & Computer Science graduate with experience in 
 
 - R
 - MATLAB
-- Excel
 - LaTeX
 - Microsoft Office
