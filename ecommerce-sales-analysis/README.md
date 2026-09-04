@@ -43,4 +43,4 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 
 ## Dashboard Preview (Excel)
 
-![Dashboard Overview](ecommerce-sales-analysis/E-Commerce Sales Analysis Dashboard.png)
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis%20Dashboard.png)
