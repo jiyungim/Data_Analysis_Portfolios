@@ -39,7 +39,7 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 ## Files
 - Excel: [E-Commerce Sales Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis.sql)
 - Dashboard : [E-Commerce Sales Dashboard](https://public.tableau.com/views/LoanApprovalAnalysisDashboard_17805090891440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  (Link to Tableau)
-- Dataset: [loan_data](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/loan_data.csv)  (Source: Kaggle)
+- Dataset: [loan_data](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analytics.csv)  (Source: Kaggle)
 
 ## Dashboard Preview (Tableau)
 
