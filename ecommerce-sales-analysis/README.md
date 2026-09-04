@@ -43,4 +43,4 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 
 ## Dashboard Preview (Excel)
 
-![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
+![Dashboard Overview](ecommerce-sales-analysis/E-Commerce Sales Analysis Dashboard.png)
