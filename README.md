@@ -14,7 +14,7 @@ Hi, I'm Jiyun! I'm a Mathematics & Computer Science graduate with experience in 
 - Python
 - SQL
 - Tableau
-- Excel
+- Microsoft Excel
 
 ## Additional Technical Skills (Academic Exposure)
 
