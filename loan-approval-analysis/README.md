@@ -4,6 +4,10 @@
 This project explores the key factors affecting loan approval decisions through SQL-based data analysis and Tableau visualization. 
 The analysis examines employment status, credit quality, income levels, and risk segmentation to uncover trends and support risk-based decision making.
 
+## Dashboard Preview (Tableau)
+
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
+
 ## Tools
 - SQL (data cleaning, aggregation, segmentation analysis)
 - Tableau (interactive dashboard and data visualization)
@@ -32,7 +36,3 @@ The analysis examines employment status, credit quality, income levels, and risk
 - SQL: [Loan Approval Analysis](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis.sql)
 - Tableau: [Loan Approval Analysis Dashboard](https://public.tableau.com/views/LoanApprovalAnalysisDashboard_17805090891440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  (Link to Tableau)
 - Dataset: [loan_data](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/loan_data.csv)  (Source: Kaggle)
-
-## Dashboard Preview (Tableau)
-
-![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
