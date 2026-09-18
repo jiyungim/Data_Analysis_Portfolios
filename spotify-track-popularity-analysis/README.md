@@ -7,7 +7,7 @@ The analysis focuses on identifying how audio features, track characteristics, a
 
 ## Analysis Preview (Python-based Graphs)
 
-![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/spotify-track-popularity-analysis/spotify-track-popularity-analysis-preview.png)
 
 ## Tools
 - Python
