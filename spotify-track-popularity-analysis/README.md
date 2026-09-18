@@ -5,6 +5,10 @@ This project explores the factors that influence Spotify track popularity and st
 
 The analysis focuses on identifying how audio features, track characteristics, and listener behavior patterns relate to track popularity in modern streaming environments.
 
+## Analysis Preview (Python-based Graphs)
+
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/loan-approval-analysis/Loan%20Approval%20Analysis%20Dashboard.png)
+
 ## Tools
 - Python
   - Pandas, Matplotlib, Seaborn, SciPy, NumPy
