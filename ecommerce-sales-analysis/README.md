@@ -11,16 +11,14 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 ## Tools
 - Microsoft Excel
   - PivotTables
-  - Formulas
-  - Data Validation
-  - Charts
-  - Dashboard Development
+  - SUMIFS & COUNTIFS
+  - IF
+  - Excel Charts
 
 ## Skills & Techniques
 - Data Cleaning & Validation
 - Data Quality Checks
 - KPI Calculation
-- SUMIFS & COUNTIFS
 - PivotTable Analysis
 - Exploratory Data Analysis (EDA)
 - Data Visualization
