@@ -4,6 +4,10 @@
 This project analyzes 5,000 e-commerce sales transactions using Microsoft Excel to evaluate sales performance, customer behavior, regional performance, and payment method usage.
 The analysis focuses on data validation, KPI development, PivotTable analysis, and dashboard visualization to identify key sales patterns and business insights.
 
+## Dashboard (Excel)
+
+![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis%20Dashboard.png)
+
 ## Tools
 - Microsoft Excel
   - PivotTables
@@ -35,10 +39,6 @@ The analysis focuses on data validation, KPI development, PivotTable analysis, a
 - The strong performance of the West region suggests an opportunity to further evaluate regional customer demand and sales strategies.
 - Card usage accounted for nearly half of all transactions, highlighting its importance as the primary payment method.
 - The relatively low average customer rating suggests that further analysis of customer experience factors could help identify opportunities for improvement.
-
-## Dashboard (Excel)
-
-![Dashboard Overview](https://github.com/jiyungim/Data_Analysis_Portfolios/blob/main/ecommerce-sales-analysis/E-Commerce%20Sales%20Analysis%20Dashboard.png)
 
 
 ## Files
